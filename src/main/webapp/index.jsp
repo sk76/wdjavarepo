@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>New Deployment of .... Java Web Application Using Ansible....</h2>
+<h2>Deploying Java Web Application in Container using CI/CD Pipeline.....</h2>
 </body>
 </html>
