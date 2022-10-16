@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Deploying Java Web Application in Container using CI/CD Pipeline.....</h2>
+<h2>Java Web Application in Container---Version2</h2>
 </body>
 </html>
