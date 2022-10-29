@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Java Web Application in Container---Version5......</h2>
+<h2>Fully automated java app deployment using ansible.....</h2>
 </body>
 </html>
