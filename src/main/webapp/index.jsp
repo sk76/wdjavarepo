@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Version7-----Fully automated java app deployment using ansible.....</h2>
+<h2>Deploying Java App On Kubernetes Cluster - Version1</h2>
 </body>
 </html>
